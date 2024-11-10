@@ -1,0 +1,24 @@
+{
+  "name": "node-js",
+  "version": "1.0.0",
+  "description": "dsc",
+  "main": "fsdd",
+
+  "scripts": {
+    "test": "sadc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "asdc"
+  },
+  "keywords": [
+    "asdc"
+  ],
+  "author": "asdc",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
